@@ -33,9 +33,9 @@ def get_gemini_response(question):
 
 ##initialize our streamlit app
 
-st.set_page_config(page_title="Q&A Demo")
+st.set_page_config(page_title="Ask me Anything")
 
-st.header("Chatbot")
+st.header("VIRUS")
 
 input=st.text_input("Input: ",key="input")
 
